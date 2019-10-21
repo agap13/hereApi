@@ -1,0 +1,13 @@
+C:\Users\agna1\OneDrive\Dokumenty\Visual Studio 2017\Projects\HereWebApp\HereWebApp\bin\Debug\netcoreapp2.2\HereWebApp.deps.json
+C:\Users\agna1\OneDrive\Dokumenty\Visual Studio 2017\Projects\HereWebApp\HereWebApp\bin\Debug\netcoreapp2.2\HereWebApp.runtimeconfig.json
+C:\Users\agna1\OneDrive\Dokumenty\Visual Studio 2017\Projects\HereWebApp\HereWebApp\bin\Debug\netcoreapp2.2\HereWebApp.runtimeconfig.dev.json
+C:\Users\agna1\OneDrive\Dokumenty\Visual Studio 2017\Projects\HereWebApp\HereWebApp\bin\Debug\netcoreapp2.2\HereWebApp.dll
+C:\Users\agna1\OneDrive\Dokumenty\Visual Studio 2017\Projects\HereWebApp\HereWebApp\bin\Debug\netcoreapp2.2\HereWebApp.pdb
+C:\Users\agna1\OneDrive\Dokumenty\Visual Studio 2017\Projects\HereWebApp\HereWebApp\obj\Debug\netcoreapp2.2\HereWebApp.csproj.CoreCompileInputs.cache
+C:\Users\agna1\OneDrive\Dokumenty\Visual Studio 2017\Projects\HereWebApp\HereWebApp\obj\Debug\netcoreapp2.2\HereWebApp.RazorAssemblyInfo.cache
+C:\Users\agna1\OneDrive\Dokumenty\Visual Studio 2017\Projects\HereWebApp\HereWebApp\obj\Debug\netcoreapp2.2\HereWebApp.RazorAssemblyInfo.cs
+C:\Users\agna1\OneDrive\Dokumenty\Visual Studio 2017\Projects\HereWebApp\HereWebApp\obj\Debug\netcoreapp2.2\HereWebApp.AssemblyInfoInputs.cache
+C:\Users\agna1\OneDrive\Dokumenty\Visual Studio 2017\Projects\HereWebApp\HereWebApp\obj\Debug\netcoreapp2.2\HereWebApp.AssemblyInfo.cs
+C:\Users\agna1\OneDrive\Dokumenty\Visual Studio 2017\Projects\HereWebApp\HereWebApp\obj\Debug\netcoreapp2.2\HereWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\agna1\OneDrive\Dokumenty\Visual Studio 2017\Projects\HereWebApp\HereWebApp\obj\Debug\netcoreapp2.2\HereWebApp.dll
+C:\Users\agna1\OneDrive\Dokumenty\Visual Studio 2017\Projects\HereWebApp\HereWebApp\obj\Debug\netcoreapp2.2\HereWebApp.pdb
